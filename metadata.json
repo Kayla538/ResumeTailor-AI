@@ -1,0 +1,5 @@
+{
+  "name": "ResumeTailor AI",
+  "description": "A client-side application that uses AI to tailor your resume to a specific job description.",
+  "requestFramePermissions": []
+}
